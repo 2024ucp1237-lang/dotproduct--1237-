@@ -6,4 +6,6 @@ if len(v1) != len(v2):
 else:
     dot_product = sum(a * b for a, b in zip(v1, v2))
     print("Dot product:", dot_product)
+    
+print("A new change by Sans")
 
